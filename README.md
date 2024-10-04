@@ -1,0 +1,1 @@
+## Just trying to make a flashcard application in Rust
